@@ -1,0 +1,16 @@
+
+<style type="text/css">
+/* Global styles */
+ .rendered_html p, .rendered_html li, .rendered_html h1, .rendered_html h2, .rendered_html h3, .rendered_html h4, .rendered_html h5, .rendered_html h6 {
+        font-size: 20px;
+    }
+html, body, p, h6 {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: 'Georgia', Arial, sans-serif;
+  font-size: 30px;
+  line-height: 2;
+  color: white;
+} 
+ </style>
