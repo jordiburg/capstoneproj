@@ -1,0 +1,15 @@
+{
+    "input_data": {
+        "columns": [
+            "CleanedSwrText"
+        ],
+        "index": [
+            0
+        ],
+        "data": [
+            [
+                1
+            ]
+        ]
+    }
+}
